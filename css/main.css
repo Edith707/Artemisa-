@@ -1,0 +1,52 @@
+/* ***** INDEX **************
+*****************************
+************************* */
+
+*{ box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+ /* Use the following CSS rules to specify these families:
+
+    font-family: 'Libre Baskerville', serif;
+
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Lato', sans-serif;
+
+    
+
+ */
+ 
+.container{
+ width: 100%;
+}
+
+header {
+     background-image:url( ../images/Artemisa9.jpg);
+     background-repeat: no-repeat;
+     height: 500px;
+     width: 100%;     width: 100%;b
+
+ }
+
+ nav {
+     background-color: #A2738C;
+     display: inline-block;
+     width: 20%;
+     margin-right: 15%;
+     font-family: 'Montserrat', sans-serif;
+    
+     text-align: center;
+ }
+
+ nav>ul>li:hover {
+     background-color: #C8A1E0;
+ }
+nav>ul>li {
+    list-style: none;
+    color: white;
+}
