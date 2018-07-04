@@ -30,7 +30,7 @@ Igualmente espero tener quizas en un escalamiento una sección tipo blog donde l
 Diseño Index 
 
 ![Index](images/index.png)
-
+[NUevo diseño scroll infinito] (https://marvelapp.com/4cfe460)
 
 ## Fuentes de información 
 

@@ -34,19 +34,25 @@ header {
  }
 
  nav {
-     background-color: #A2738C;
+     background-color:#8A79AF;
      display: inline-block;
-     width: 20%;
      margin-right: 15%;
-     font-family: 'Montserrat', sans-serif;
-    
+     font-family: 'Montserrat', sans-serif; 
+     height: 50 px;
      text-align: center;
+     width: 100%;
+ }
+ nav>ul>li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 10%;
+ }
+ nav>ul>li>a {
+     color: white;
+   
  }
 
  nav>ul>li:hover {
-     background-color: #C8A1E0;
+     background-color:#C8B2E5;
  }
-nav>ul>li {
-    list-style: none;
-    color: white;
-}
+
