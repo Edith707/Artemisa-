@@ -1,0 +1,14 @@
+nav{
+    background-color: blueviolet; 
+} 
+
+nav>ul>li{
+ display: inline-block;
+ list-style: none;
+ margin-left: 10%;
+ 
+}
+nav>ul>li>a {
+    text-decoration: none;
+}
+
