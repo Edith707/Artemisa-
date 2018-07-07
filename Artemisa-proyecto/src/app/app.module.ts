@@ -8,13 +8,16 @@ import { RoboComponent } from './robo/robo.component';
 import { AcosoComponent } from './acoso/acoso.component';
 import { ViolacionComponent } from './violacion/violacion.component';
 import { DescargasComponent } from './descargas/descargas.component';
+import { AppRoutingModule } from './/app-routing.module';
+import { AboutComponent } from './about/about.component';
 @NgModule({
   declarations: [
     AppComponent,
     RoboComponent,
     AcosoComponent,
     ViolacionComponent,
-    DescargasComponent
+    DescargasComponent,
+    AboutComponent
   ],
   imports: [
     BrowserModule,
@@ -23,7 +26,8 @@ import { DescargasComponent } from './descargas/descargas.component';
     MatButtonModule,
     MatSidenavModule,
     MatIconModule,
-    MatListModule 
+    MatListModule,
+    AppRoutingModule 
 
   ],
   providers: [],
