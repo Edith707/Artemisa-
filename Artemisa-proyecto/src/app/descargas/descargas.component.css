@@ -1,4 +1,10 @@
 .descargas {
-    background-clip: blue;
-    height: 500px;
+    background-image: url("../../assets/img/ciudadania.jpg");
+    background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 400px;
+	min-height: 200px;
+	width: 100%;
+
 }

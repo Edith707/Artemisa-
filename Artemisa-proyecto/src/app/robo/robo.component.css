@@ -14,3 +14,9 @@ main>p {
    font-size: 16pt;
 
 }
+
+.image{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}

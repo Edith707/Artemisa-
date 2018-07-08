@@ -1,4 +1,22 @@
 .acoso {
-    background-color: blueviolet;
     height: 200px;
+    font-size: 40px;
+}
+
+.acoso>div>p {
+    text-align: center;
+}
+main{
+    justify-content: center;
+}
+
+main>p {
+   font-size: 16pt;
+
+}
+
+.image{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
 }
