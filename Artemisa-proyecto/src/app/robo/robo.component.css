@@ -6,8 +6,11 @@
 .robo>div>p {
     text-align: center;
 }
+main{
+    justify-content: center;
+}
 
-mat-icon{
-    color: #645C84;
-    font-size: 48em;
+main>p {
+   font-size: 16pt;
+
 }
