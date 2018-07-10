@@ -1,10 +1,10 @@
 .descargas {
-    background-image: url("../../assets/img/ciudadania.jpg");
+    background-image: url("../../assets/img/aplicacion.jpg");
     background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 400px;
-	min-height: 200px;
+	min-height: 800px;
 	width: 100%;
 
 }
