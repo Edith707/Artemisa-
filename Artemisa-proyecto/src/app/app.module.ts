@@ -12,6 +12,7 @@ import { AppRoutingModule } from './/app-routing.module';
 import { AboutComponent } from './about/about.component';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 import { MatDialogModule } from "@angular/material/dialog";
+import { InfiniteScrollModule } from "ngx-infinite-scroll";
 
 @NgModule({
   declarations: [
@@ -31,7 +32,8 @@ import { MatDialogModule } from "@angular/material/dialog";
     MatIconModule,
     MatListModule,
     AppRoutingModule,
-    MatDialogModule
+    MatDialogModule,
+    InfiniteScrollModule
 
   ],
   providers: [],

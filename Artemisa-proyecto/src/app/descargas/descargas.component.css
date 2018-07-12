@@ -1,3 +1,7 @@
+.box{
+	width: 100%;
+	height: 100vh;
+}
 .descargas {
     background-image: url("../../assets/img/aplicacion.jpg");
     background-position: center center;
