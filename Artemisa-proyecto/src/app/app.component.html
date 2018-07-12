@@ -1,25 +1,18 @@
- <div class="row">
-   <header>
-     <div class="row">
-        <nav>
-          <ul>
-            <li><a routerLink="about"> Inicio</a></li>
-            <li><a routerLink="robo"> Robo</a></li>
-            <li><a routerLink="acoso"> Acoso callejero</a></li>
-            <li><a routerLink="violacion"> Violacion</a></li>
-            <li><a routerLink="descargas"> Descargas</a></li>
-          </ul>
-        </nav>
-
-      </header>
+<div>
+  <header>
+    <div class="row">
+      <nav>
+        <ul>
+          <li><a href="#about"> Inicio</a></li>
+          <li><a routerLink="robo"> Robo</a></li>
+          <li><a href="#acoso"> Acoso callejero</a></li>
+          <li><a routerLink="violacion"> Violacion</a></li>
+          <li><a routerLink="descargas"> Descargas</a></li>
+        </ul>
+      </nav>
     </div>
+  </header>
 </div>
-
-<div class="search-results"
-infiniteScroll
-[infiniteScrollDistance]="2"
-[infiniteScrollThrottle]="50"
->
-</div>
-
 <router-outlet></router-outlet>
+<app-about id="about"></app-about>
+<app-acoso id="acoso"></app-acoso>
