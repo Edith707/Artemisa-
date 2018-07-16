@@ -1,7 +1,25 @@
 <div class="box">
-        <section clas="about">
-                <img src="assets/img/Artemisa9.jpg"  height="500px" width="100%">
+   
+        <div id="wrapper">
+                <ngb-carousel *ngIf="images">
+                  <ng-template ngbSlide>
+                    <img [src]="images[0]" alt="Random first slide">
+                  </ng-template>
+                  <ng-template ngbSlide>
+                    <img [src]="images[1]" alt="Random second slide">
+                  </ng-template>
+                  <ng-template ngbSlide>
+                    <img [src]="images[2]" alt="Random third slide">
+                  </ng-template>
+                  <ng-template ngbSlide>
+                    <img [src]="images[3]" alt="Random fourth slide">
+                  </ng-template>
+                </ngb-carousel>
+        </div>
+        
+ 
+        <section clas="about"> 
                 <h2>¿Quienes somos?</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque earum tempore impedit ratione? Quo sint nihil at, amet ratione placeat, animi perferendis temporibus cupiditate illo, voluptate aspernatur maxime consequuntur ipsam.</p>
-            </section>
+        </section>
 </div>

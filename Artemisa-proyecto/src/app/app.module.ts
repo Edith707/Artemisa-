@@ -1,6 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-
+import { NgbModule } from "@ng-bootstrap/ng-bootstrap";
 import { AppComponent } from './app.component';
 import { RoboComponent } from './robo/robo.component';
 import { AcosoComponent } from './acoso/acoso.component';
@@ -22,8 +22,9 @@ import { InfiniteScrollModule } from "ngx-infinite-scroll";
   ],
   imports: [
     BrowserModule,
-
+    
     AppRoutingModule,
+    NgbModule.forRoot(),
 
     InfiniteScrollModule
 
