@@ -10,6 +10,7 @@ import { AppRoutingModule } from './/app-routing.module';
 import { AboutComponent } from './about/about.component';
 
 import { InfiniteScrollModule } from "ngx-infinite-scroll";
+import { NavComponent } from './nav/nav.component';
 
 @NgModule({
   declarations: [
@@ -19,6 +20,7 @@ import { InfiniteScrollModule } from "ngx-infinite-scroll";
     ViolacionComponent,
     DescargasComponent,
     AboutComponent,
+    NavComponent,
 
   ],
   imports: [

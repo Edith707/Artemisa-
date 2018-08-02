@@ -1,0 +1,18 @@
+.nav{
+    position: fixed;
+    background-color: #8A79AF; 
+    width: 100%;
+    padding: 30px;
+}
+.nav-item {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 1vw;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-item  :hover {
+    background-color: blueviolet;
+}
