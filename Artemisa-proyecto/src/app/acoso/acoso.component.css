@@ -1,26 +1,15 @@
 .box {
 	width: 100%;
-	height: 100vh;
+    height: 100%;
+    margin-top: 10%;
 }
-.acoso {
-    height: 200px;
-    font-size: 40px;
-}
-
-.acoso>div>p {
-    text-align: center;
-}
-main{
-    justify-content: center;
+.images {
+    border-radius: 40%;
+    max-width: 286px;
+    max-height: 180px;
 }
 
-main>p {
-   font-size: 16pt;
-
+.display {
+    display: inline-block;
 }
 
-.image{
-    height: 200px;
-    width: 200px;
-    border-radius: 50%;
-}
