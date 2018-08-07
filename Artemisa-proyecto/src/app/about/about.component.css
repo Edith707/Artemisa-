@@ -25,22 +25,3 @@ img {
     display: inline-block;
 }
 
-
-
-/*Definiendo el comportamiento con dispositivos mobiles*/
-@media(min-width:554px){
-   
-    .col-4 {min-width: 100%; display: block;}
- }
-  /*
- @media(min-width:768px){
-     .display {
-         display: block;
-     }
- }
-
- @media(min-width:992px){
-  
- }
- @media(min-width:1200px){}
- */
