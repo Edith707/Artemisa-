@@ -1,19 +1,19 @@
-.nav {
+.navbar{
     position: fixed;
-    background-color: #8A79AF; 
     width: 100%;
-    padding: 30px;
-    z-index: 600;
-}
-.nav-item {
-    font-family: 'Libre Franklin', sans-serif;
-    font-size: 1vw;
+    z-index: 100;
 }
 
-.nav-link{
-    color: white;
+.badge-dark{
+    background-color: #8A79AF!important;
 }
 
-.nav-item  :hover {
-    background-color: blueviolet;
+.nav-item:hover{
+   background-color: rgba(184, 127, 219, 0.904);
+   margin-left: 10%;
+}
+#special{
+    font-style: italic;
+    font-weight: 100;
+    font-size: 2vw;
 }
