@@ -19,6 +19,16 @@
 }
 
 .btn {
+
     background-color: #B37ED6;
     border-color:#B37ED6; 
+
+}
+
+.imagen {
+   min-width: 100%;
+}
+.img-modal {
+    width: 400px;
+    height: 100%;
 }
