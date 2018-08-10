@@ -5,13 +5,15 @@ import { RoboComponent } from "./robo/robo.component";
 import { AcosoComponent } from "./acoso/acoso.component";
 import { ViolacionComponent } from "./violacion/violacion.component";
 import { DescargasComponent } from "./descargas/descargas.component";
+import { FooterComponent} from "./footer/footer.component";
 
 const routes:Routes =[
   { path: "about", component: AboutComponent},
   { path:"robo", component: RoboComponent },
   { path:"acoso", component: AcosoComponent },
   { path: "violacion", component: ViolacionComponent },
-  { path: "descargas", component: DescargasComponent }
+  { path: "descargas", component: DescargasComponent },
+  { path: "footer", component: FooterComponent}
 ]
 
 

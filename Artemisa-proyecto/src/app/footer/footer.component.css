@@ -1,0 +1,13 @@
+#footer {
+    background-color: #8A79AF;
+    text-align: center;
+    color: white;
+    
+}
+.info-footer {
+    margin-top: 30px;
+    width: 70%;
+}
+.info-footer>p, .info-footer>h2{
+    margin-left: 30%;
+}

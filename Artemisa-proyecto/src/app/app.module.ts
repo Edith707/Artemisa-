@@ -11,6 +11,7 @@ import { AboutComponent } from './about/about.component';
 
 import { InfiniteScrollModule } from "ngx-infinite-scroll";
 import { NavComponent } from './nav/nav.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +22,7 @@ import { NavComponent } from './nav/nav.component';
     DescargasComponent,
     AboutComponent,
     NavComponent,
+    FooterComponent,
 
   ],
   imports: [
