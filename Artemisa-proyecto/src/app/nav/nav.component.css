@@ -4,6 +4,7 @@
     z-index: 100;
 }
 
+
 .badge-dark{
     background-color: #8A79AF!important;
 }
@@ -15,5 +16,5 @@
 #special{
     font-style: italic;
     font-weight: 100;
-    font-size: 2vw;
+   
 }
