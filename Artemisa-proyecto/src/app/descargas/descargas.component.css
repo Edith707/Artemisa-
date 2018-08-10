@@ -13,3 +13,19 @@
 	width: 100%;
 
 }
+.info-app {
+    margin-top: 30%;
+	text-align: center;
+	color: white;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.info-app >h2, .info-app>h3 {
+	font-weight: 700;
+}
+
+.info-app>h4{
+	border: 1px white solid;
+	display: inline-block;
+	border-radius: 20%;
+}
