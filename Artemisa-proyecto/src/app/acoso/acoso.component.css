@@ -32,3 +32,14 @@
     width: 400px;
     height: 100%;
 }
+
+.infografias {
+    min-width: 550px;
+    height: auto;
+  
+}
+
+.modal-content{
+   min-height: auto;
+  min-width: 650px;
+}

@@ -22,3 +22,13 @@
     background-color: #B37ED6;
     border-color:#B37ED6; 
 }
+.infografias {
+    min-width: 550px;
+    height: auto;
+  
+}
+
+.modal-content{
+   min-height: auto;
+  min-width: 650px;
+}
