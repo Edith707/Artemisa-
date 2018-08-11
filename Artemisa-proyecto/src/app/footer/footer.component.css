@@ -12,9 +12,11 @@
     margin-top: 30px;
 }
 .info-footer {
+    margin: auto;
     margin-top: 30px;
-    
 }
 .info-footer>p, .info-footer>h2{
-    margin-left: 30%;
+    margin-left:20%;
+    margin-right: 20%;
+    text-align: center;
 }
