@@ -27,6 +27,10 @@ Igualmente relevante es informar a las mujeres sobre los programas y acciones gu
 
 Igualmente espero tener quizas en un escalamiento una sección tipo blog donde las mujeres puedan tener un espacio de denuncia anonima del acoso callejero siguiendo un codigo de ética como no poner el nombre del agresor sino de fomentar en las mujeres que no son las únicas y que debemos luchar en contra de la violencia sexual en la movilidad.
 
+Población Objetivo : Mujeres jóvenes y de mediana edad, por lo que la página debe ser de fácil navegación,  diseño sencillo y estético.
+
+La información se concentrara en prevenir delitos y mecanismos e instituciones para dennunciar.
+
 Diseño Index 
 
 ![Index](images/index.png)
