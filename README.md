@@ -34,7 +34,7 @@ La información se concentrara en prevenir delitos y mecanismos e instituciones 
 Diseño Index 
 
 ![Index](images/index.png)
-[NUevo diseño scroll infinito] (https://marvelapp.com/4cfe460)
+[Nuevo diseño scroll infinito] (https://marvelapp.com/4cfe460)
 
 ## Fuentes de información 
 
